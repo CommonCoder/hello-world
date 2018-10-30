@@ -1,2 +1,5 @@
 # hello-world
-Hello World
+
+Hello Humans!
+
+CommonCoder here. Let's get right into the news.
